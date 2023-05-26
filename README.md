@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ariel Lin
 - 👀 I’m interested in web/app development, cybersecurity and cloud computing
-- 🌱 I’m currently learning C/C++, data structures and algorithms
 
 <!---
 ariellinfy/ariellinfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
